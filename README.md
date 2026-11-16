@@ -27,7 +27,7 @@
 
 ### Legacy Edition (2.0 Archive)
 <div align="center">
-  <img src="https://www.softedition.com/wp-content/uploads/2018/09/Browser-Cleaner-2.0-background.jpg" alt="Browser Cleaner 2.0" width="85%" />
+  <img src="https://www.softedition.com/wp-content/uploads/2010/08/Browser-cleaner-3.2.28.8.png" alt="Browser Cleaner 2.0" width="85%" />
 </div>
 
 ---
